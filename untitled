@@ -1,0 +1,19 @@
+class Classifier
+  def initialize
+    @docs = Hash.new(0)
+    @words = {}
+  end
+
+  def train(words,tag)
+    @docs[tag] += 1
+    @words[tag] ||= Hash.new(1)
+    words.each{|w| @words[tag][w] += 1 }
+  end
+
+  def classify(words)
+    @data.keys.max_by do |tag|
+      Math.log(@docs[tag]) +
+      words.map{|w| Math.log(@words[tag][w])}.reduce(:+)
+    end
+  end
+end
