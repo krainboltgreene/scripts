@@ -1,0 +1,13 @@
+module A
+  @@example = 4
+end
+
+module B
+  include A
+  module C
+    include B
+  end
+end
+
+
+

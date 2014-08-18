@@ -1,0 +1,89 @@
+Date,Client,Project,Project Code,Task,First name,Last name,Note,Hours,Hours rounded,Invoiced,Approved,Department,Billable,Hourly rate,Cost,Currency,Currency symbol
+2013-07-01,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.42,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-01,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Fiddling with various connection aspects to improve queue performance and uptime,1.25,1.25,yes,no,Founder,billable,75.0,93.75,United States Dollars - USD,$
+2013-07-02,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.23,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-02,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Attempting to improve the concurrency rate within the queues system,2.67,2.75,yes,no,Founder,billable,75.0,206.25,United States Dollars - USD,$
+2013-07-03,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We want to split persons by blank and empty,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-03,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-04,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"Improvements to scope, person values, etc",3.5,3.5,yes,no,Founder,billable,75.0,262.5,United States Dollars - USD,$
+2013-07-04,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Decorating caused weird values to appear,0.35,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-04,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.65,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-07-04,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Cleaning out the old work,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-04,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We want to directly edit the person status,0.69,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-07-05,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Give all non-created stamped persons a created_at stamp,0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-05,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.27,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-08,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-08,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We want to see more data on the graphs.,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-09,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"Fixing a bug, I mispelled default, jesus.",0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-10,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Adding relevent charts to each index.,0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-10,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.43,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-11,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.67,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-07-11,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Fixing the number system for statistics on some scopes.,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-12,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.47,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-15,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.78,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-07-16,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.43,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-17,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-18,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.26,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-19,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.23,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-22,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-23,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.55,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-07-24,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-25,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Don't authenticate the statistics call,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-25,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"Changes to the scoring system, null person.",0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-25,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We don't use test unit anymore,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-25,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We want to score confidence on all persons,0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-25,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.44,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-25,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Persons will now have genders,1.25,1.25,yes,no,Founder,billable,75.0,93.75,United States Dollars - USD,$
+2013-07-26,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.1,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-29,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-07-30,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.77,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-07-31,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"A few updates, plus adding order to person api.",0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-07-31,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.76,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-08-01,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Rebuilding the locations table to now extract lat/long,1.4,1.5,yes,no,Founder,billable,75.0,112.5,United States Dollars - USD,$
+2013-08-01,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"Small bug in the presenter, reading nil.",0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-01,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We want to allow asc or desc descriptors.,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-01,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.46,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-02,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Return status and only make status fresh unless found.,0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-02,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.96,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-08-05,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Caching was causing surveys to not show.,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-05,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,We want to see only found people.,0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-05,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"Adding more tabs, renaming ageable",0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-05,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.56,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-08-05,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Fixing migration issues and timeoutes,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-06,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.32,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-06,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Only show matched persons,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-07,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.43,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-09,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Fixing the implementation use of the liker machine.,1.0,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-08-09,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Further limiting the scope of the analyzer.,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-09,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Making the persons table easier to read.,0.3,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-09,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"Some statuses aren't linked to a search anymore, having to fix and relink",0.69,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-08-09,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Cleaning up the doll caching.,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-09,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.24,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-12,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-13,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-16,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.78,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-08-19,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.67,0.75,yes,no,Founder,billable,75.0,56.25,United States Dollars - USD,$
+2013-08-20,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-21,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.43,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-21,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Looking and using various dashboard implementations,3.25,3.25,yes,no,Founder,billable,75.0,243.75,United States Dollars - USD,$
+2013-08-21,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Cleaning up the statistics front end.,0.8,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-08-22,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Looking and using various dashboard implementations,1.75,1.75,yes,no,Founder,billable,75.0,131.25,United States Dollars - USD,$
+2013-08-22,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.24,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-22,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,"New statistics output, removing line charts",1.2,1.25,yes,no,Founder,billable,75.0,93.75,United States Dollars - USD,$
+2013-08-22,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Cleaning up the statistics for the new dashboard,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-26,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Updating gems to use latest versions,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-26,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Fixing an invalid url bug,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-27,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.23,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-27,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Matching the other api endpoints with a serializer.,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-27,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Bumping up the number of past days we pull.,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-27,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Setting up librato authentication and adding the librato library,0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-27,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Send librato statistics after each statistic creation,0.25,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-27,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Looking and using various dashboard implementations,2.0,2.0,yes,no,Founder,billable,75.0,150.0,United States Dollars - USD,$
+2013-08-28,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Readding the new sidekiq interface.,0.36,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-28,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.45,0.5,yes,no,Founder,billable,75.0,37.5,United States Dollars - USD,$
+2013-08-28,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Refactoring to start using librato instead of other metrics,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-28,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Cleaning up the various remote interfaces to prepare for the new data streams,2.23,2.25,yes,no,Founder,billable,75.0,168.75,United States Dollars - USD,$
+2013-08-28,Decielo,Makindo,"",Program Development,Kurtis,Rainbolt-Greene,Cleaning up the sending of the queue.,0.15,0.25,yes,no,Founder,billable,75.0,18.75,United States Dollars - USD,$
+2013-08-29,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,"",0.76,1.0,yes,no,Founder,billable,75.0,75.0,United States Dollars - USD,$
+2013-08-29,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,Ripping out various old pieces of the core architecture,1.24,1.25,yes,no,Founder,billable,75.0,93.75,United States Dollars - USD,$
+2013-08-29,Decielo,Makindo,"",Standup/Meeting,Kurtis,Rainbolt-Greene,Setting up the multi-api interface,4.32,4.5,yes,no,Founder,billable,75.0,337.5,United States Dollars - USD,$
